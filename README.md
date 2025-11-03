@@ -1,7 +1,8 @@
 <!--Header Image --->
 <p align="center">
-  <img src="Assets/Photo.jpeg">
+  <img src="https://github.com/Tushar-3612/Tushar-3612/blob/main/Assets/Photo.jpeg"/>
 </p>
+
 
 <!--Welcome Prompt --->
 <div align="center">
@@ -49,7 +50,7 @@ I am Amit, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech en
 <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=amitzend68&langs_count=8&layout=compact&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117&border_radius=15&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" width="40%"/> 
 </p>
 
-<img src="Assets/CLine.gif">
+<img src="https://github.com/Tushar-3612/Tushar-3612/blob/main/Assets/CLine.gif" alt="Coding Line Animation"/>
 
 <h2 align="center"><img src="Assets/Follow.gif" width="45"/> Profile Insights <img src="Assets/Follow.gif" width="45"/></h2>
 
@@ -71,16 +72,16 @@ I am Amit, B.Tech undergrad at [SCOE](https://sanjivanicoe.org.in/) 🔎 Tech en
 <img src="Assets/CLine.gif">
 
 <!-- Snake animation -->
-<img src="Assets/github-snake.svg">
+<img src="https://github.com/Tushar-3612/Tushar-3612/blob/main/Assets/github-snake.svg" alt="GitHub Snake Animation"/>
 
- ## 🤝 Connect With Me  
+ 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tushar-nagare-5a17b9287/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://x.com/Tushar__3612"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="mailto:tusharnagare2006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://www.instagram.com/tushar__3612/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-</p>
+ 
+  <!-- <a href="https://www.linkedin.com/in/tushar-nagare-5a17b9287/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <!-- <a href="https://x.com/Tushar__3612"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a> -->
+  <!-- <a href="mailto:tusharnagare2006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a> -->
+  <!-- <a href="https://www.instagram.com/tushar__3612/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a> -->
+<!-- </p> -->  
 
 ---
 <p align="center">
